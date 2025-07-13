@@ -1,4 +1,3 @@
-// src/components/SearchBar.js
 function SearchBar({ search, setSearch }) {
   return (
     <input
